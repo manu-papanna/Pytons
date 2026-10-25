@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AgentShield — Autonomous AI Agent Security Layer
 
 ## Detecting Prompt Injection & Agent Manipulation in Real-Time
@@ -157,7 +156,4 @@ pytest -v
 - **REST API Reference:** [docs/API.md](docs/API.md)
 - **Threat Model & Security Controls:** [docs/THREAT_MODEL.md](docs/THREAT_MODEL.md)
 - **Architecture Deep-Dive:** [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
-=======
-# AGENTIC-AI-09-Pytona
-Infothon 7.0 | Agentic AI | Team: Pytona
->>>>>>> 6ab81d1ef2e65243918ca04124631eccbe9b7039
+
